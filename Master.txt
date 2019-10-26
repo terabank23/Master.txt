@@ -1,3 +1,3 @@
-<Version: 1.01>
+<Version: 1.02>
 /data/Map001.JSON https://raw.githubusercontent.com/terabank23/Update-For-Game/master/Map001.json
 <End of Version>
